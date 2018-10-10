@@ -11507,11 +11507,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/kismet/Documents/Programacao/DotNet/RestWithDotNet/RestWithDotNet.csproj",
-      "projectName": "RestWithDotNet",
-      "projectPath": "/home/kismet/Documents/Programacao/DotNet/RestWithDotNet/RestWithDotNet.csproj",
+      "projectUniqueName": "/home/kismet/Documents/Programacao/DotNet/RestWithDotNet/RestWithDotNet_Calculadora/RestWithDotNet_Calculadora.csproj",
+      "projectName": "RestWithDotNet_Calculadora",
+      "projectPath": "/home/kismet/Documents/Programacao/DotNet/RestWithDotNet/RestWithDotNet_Calculadora/RestWithDotNet_Calculadora.csproj",
       "packagesPath": "/home/kismet/.nuget/packages/",
-      "outputPath": "/home/kismet/Documents/Programacao/DotNet/RestWithDotNet/obj/",
+      "outputPath": "/home/kismet/Documents/Programacao/DotNet/RestWithDotNet/RestWithDotNet_Calculadora/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"

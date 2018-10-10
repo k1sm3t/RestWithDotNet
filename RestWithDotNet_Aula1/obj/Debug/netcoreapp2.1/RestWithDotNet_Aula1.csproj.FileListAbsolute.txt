@@ -1,0 +1,14 @@
+/home/kismet/Documents/Programacao/DotNet/RestWithDotNet/RestWithDotNet_Aula1/bin/Debug/netcoreapp2.1/RestWithDotNet_Aula1.deps.json
+/home/kismet/Documents/Programacao/DotNet/RestWithDotNet/RestWithDotNet_Aula1/bin/Debug/netcoreapp2.1/RestWithDotNet_Aula1.runtimeconfig.json
+/home/kismet/Documents/Programacao/DotNet/RestWithDotNet/RestWithDotNet_Aula1/bin/Debug/netcoreapp2.1/RestWithDotNet_Aula1.runtimeconfig.dev.json
+/home/kismet/Documents/Programacao/DotNet/RestWithDotNet/RestWithDotNet_Aula1/bin/Debug/netcoreapp2.1/RestWithDotNet_Aula1.dll
+/home/kismet/Documents/Programacao/DotNet/RestWithDotNet/RestWithDotNet_Aula1/bin/Debug/netcoreapp2.1/RestWithDotNet_Aula1.pdb
+/home/kismet/Documents/Programacao/DotNet/RestWithDotNet/RestWithDotNet_Aula1/obj/Debug/netcoreapp2.1/RestWithDotNet_Aula1.csprojAssemblyReference.cache
+/home/kismet/Documents/Programacao/DotNet/RestWithDotNet/RestWithDotNet_Aula1/obj/Debug/netcoreapp2.1/RestWithDotNet_Aula1.csproj.CoreCompileInputs.cache
+/home/kismet/Documents/Programacao/DotNet/RestWithDotNet/RestWithDotNet_Aula1/obj/Debug/netcoreapp2.1/RestWithDotNet_Aula1.RazorAssemblyInfo.cache
+/home/kismet/Documents/Programacao/DotNet/RestWithDotNet/RestWithDotNet_Aula1/obj/Debug/netcoreapp2.1/RestWithDotNet_Aula1.RazorAssemblyInfo.cs
+/home/kismet/Documents/Programacao/DotNet/RestWithDotNet/RestWithDotNet_Aula1/obj/Debug/netcoreapp2.1/RestWithDotNet_Aula1.AssemblyInfoInputs.cache
+/home/kismet/Documents/Programacao/DotNet/RestWithDotNet/RestWithDotNet_Aula1/obj/Debug/netcoreapp2.1/RestWithDotNet_Aula1.AssemblyInfo.cs
+/home/kismet/Documents/Programacao/DotNet/RestWithDotNet/RestWithDotNet_Aula1/obj/Debug/netcoreapp2.1/RestWithDotNet_Aula1.RazorTargetAssemblyInfo.cache
+/home/kismet/Documents/Programacao/DotNet/RestWithDotNet/RestWithDotNet_Aula1/obj/Debug/netcoreapp2.1/RestWithDotNet_Aula1.dll
+/home/kismet/Documents/Programacao/DotNet/RestWithDotNet/RestWithDotNet_Aula1/obj/Debug/netcoreapp2.1/RestWithDotNet_Aula1.pdb

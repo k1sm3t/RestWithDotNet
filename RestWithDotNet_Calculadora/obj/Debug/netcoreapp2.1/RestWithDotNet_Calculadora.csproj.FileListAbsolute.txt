@@ -1,0 +1,14 @@
+/home/kismet/Documents/Programacao/DotNet/RestWithDotNet/RestWithDotNet_Calculadora/bin/Debug/netcoreapp2.1/RestWithDotNet_Calculadora.deps.json
+/home/kismet/Documents/Programacao/DotNet/RestWithDotNet/RestWithDotNet_Calculadora/bin/Debug/netcoreapp2.1/RestWithDotNet_Calculadora.runtimeconfig.json
+/home/kismet/Documents/Programacao/DotNet/RestWithDotNet/RestWithDotNet_Calculadora/bin/Debug/netcoreapp2.1/RestWithDotNet_Calculadora.runtimeconfig.dev.json
+/home/kismet/Documents/Programacao/DotNet/RestWithDotNet/RestWithDotNet_Calculadora/bin/Debug/netcoreapp2.1/RestWithDotNet_Calculadora.dll
+/home/kismet/Documents/Programacao/DotNet/RestWithDotNet/RestWithDotNet_Calculadora/bin/Debug/netcoreapp2.1/RestWithDotNet_Calculadora.pdb
+/home/kismet/Documents/Programacao/DotNet/RestWithDotNet/RestWithDotNet_Calculadora/obj/Debug/netcoreapp2.1/RestWithDotNet_Calculadora.csprojAssemblyReference.cache
+/home/kismet/Documents/Programacao/DotNet/RestWithDotNet/RestWithDotNet_Calculadora/obj/Debug/netcoreapp2.1/RestWithDotNet_Calculadora.csproj.CoreCompileInputs.cache
+/home/kismet/Documents/Programacao/DotNet/RestWithDotNet/RestWithDotNet_Calculadora/obj/Debug/netcoreapp2.1/RestWithDotNet_Calculadora.RazorAssemblyInfo.cache
+/home/kismet/Documents/Programacao/DotNet/RestWithDotNet/RestWithDotNet_Calculadora/obj/Debug/netcoreapp2.1/RestWithDotNet_Calculadora.RazorAssemblyInfo.cs
+/home/kismet/Documents/Programacao/DotNet/RestWithDotNet/RestWithDotNet_Calculadora/obj/Debug/netcoreapp2.1/RestWithDotNet_Calculadora.AssemblyInfoInputs.cache
+/home/kismet/Documents/Programacao/DotNet/RestWithDotNet/RestWithDotNet_Calculadora/obj/Debug/netcoreapp2.1/RestWithDotNet_Calculadora.AssemblyInfo.cs
+/home/kismet/Documents/Programacao/DotNet/RestWithDotNet/RestWithDotNet_Calculadora/obj/Debug/netcoreapp2.1/RestWithDotNet_Calculadora.RazorTargetAssemblyInfo.cache
+/home/kismet/Documents/Programacao/DotNet/RestWithDotNet/RestWithDotNet_Calculadora/obj/Debug/netcoreapp2.1/RestWithDotNet_Calculadora.dll
+/home/kismet/Documents/Programacao/DotNet/RestWithDotNet/RestWithDotNet_Calculadora/obj/Debug/netcoreapp2.1/RestWithDotNet_Calculadora.pdb
