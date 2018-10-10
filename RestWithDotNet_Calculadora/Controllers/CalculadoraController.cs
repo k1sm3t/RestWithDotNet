@@ -11,14 +11,50 @@ namespace RestWithDotNet_Calculadora.Controllers
     public class CalculadoraController : ControllerBase
     {
 
-        // GET api/values/5/5
-        [HttpGet("{firstNumber}/{secondNumber}")]
+        // GET api/Calculadora/sum/5/5
+        [HttpGet("sum/{firstNumber}/{secondNumber}")]
         public ActionResult<String> Sum(string firstNumber, string secondNumber)
         {
             if (IsNumeric(firstNumber) && IsNumeric(secondNumber))
             {
                 var sum = ConvertToDecimal(firstNumber) + ConvertToDecimal(secondNumber);
                 return Ok(sum.ToString());
+            }
+            return BadRequest("Invalid input");
+        }
+
+        //GET api/Calculadora/sub/5/5
+        [HttpGet("sub/{firstNumber}/{secondNumber}")]
+        public ActionResult<String> Sub(string firstNumber, string secondNumber)
+        {
+            if (IsNumeric(firstNumber) && IsNumeric(secondNumber))
+            {
+                var sub = ConvertToDecimal(firstNumber) - ConvertToDecimal(secondNumber);
+                return Ok(sub.ToString());
+            }
+            return BadRequest("Invalid input");
+        }
+
+        //GET api/Calculadora/mult/5/5
+        [HttpGet("multi/{firstNumber}/{secondNumber}")]
+        public ActionResult<String> Mult(string firstNumber, string secondNumber)
+        {
+            if (IsNumeric(firstNumber) && IsNumeric(secondNumber))
+            {
+                var mult = ConvertToDecimal(firstNumber) * ConvertToDecimal(secondNumber);
+                return Ok(mult.ToString());
+            }
+            return BadRequest("Invalid input");
+        }
+
+        //GET api/values/div/5/5
+        [HttpGet("div/{firstNumber}/{secondNumber}")]
+        public ActionResult<String> Dividir(string firstNumber, string secondNumber)
+        {
+            if (IsNumeric(firstNumber) && IsNumeric(secondNumber))
+            {
+                var div = ConvertToDecimal(firstNumber) / ConvertToDecimal(secondNumber);
+                return Ok(div.ToString());
             }
             return BadRequest("Invalid input");
         }
